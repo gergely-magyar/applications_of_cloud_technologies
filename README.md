@@ -27,7 +27,7 @@ The goal of this course is to provide an overview of cloud computing, including 
 | **2**             | **2/10**    | :x: **cancelled** :x:     | **Handing out assignments** | 
 | **3**             | **9/10**    | **Introduction to cloud computing**     | HTTP requests, creating simple APIs in MVC .NET and Python | 
 | **4**             | **16/10**   | **Virtualization**     | Microsoft Machine Learning Studio | 
-| **5**             | **23/10**   |      | :x: **cancelled** :x: |        
+| **5**             | **23/10**   | **Metal as a Service, Web services**     | :x: **cancelled** :x: |        
 | **6**             | **30/10**   |      |          | 
 | **7**             | **6/11**    |      |          | 
 | **8**             | **13/11**   |      |          | 
